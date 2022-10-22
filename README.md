@@ -1,7 +1,12 @@
-# mpv-webm
-Simple WebM maker for [mpv][mpv], with no external dependencies.
+# mpv-webm_zh
+mpv-webm脚本的汉化
 
-![sample](/img/sample.jpg)
+![mpv-shot0003](https://user-images.githubusercontent.com/84557113/197335716-6081a424-ad77-4d19-a84a-6947ded67849.jpg)
+![mpv-shot0004](https://user-images.githubusercontent.com/84557113/197335723-9b43ed08-c7df-41dd-b5d1-ea2b7775ef92.jpg)
+![mpv-shot0005](https://user-images.githubusercontent.com/84557113/197335726-6b83d37f-13c1-425f-a75b-473bc5529bdc.jpg)
+![mpv-shot0006](https://user-images.githubusercontent.com/84557113/197335738-887bc540-de61-4b52-ae8b-da93e52a00e8.jpg)
+
+Simple WebM maker for [mpv][mpv], with no external dependencies.
 
 ## Installation
 Place [this][build] in your mpv `scripts` folder. The `scripts` folder can be found (or created, if it does not already exist) in the following paths:
