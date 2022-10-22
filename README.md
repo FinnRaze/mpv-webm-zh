@@ -9,7 +9,7 @@ mpv-webm脚本的汉化
 Simple WebM maker for [mpv][mpv], with no external dependencies.
 
 ## Installation
-Place [this][build] in your mpv `scripts` folder. The `scripts` folder can be found (or created, if it does not already exist) in the following paths:
+Place [this](https://github.com/FinnRaze/mpv-webm_zh/releases/download/mpv-webm/webm.lua) in your mpv `scripts` folder. The `scripts` folder can be found (or created, if it does not already exist) in the following paths:
 - Linux/macOS: `~/.config/mpv/scripts`, where `~` is your user's home folder;
 - Windows: mpv will try to load scripts from `%APPDATA%\mpv\scripts`, followed by `<mpv binary folder>\portable_config\scripts` and `<mpv binary folder>\mpv\scripts`; where `%APPDATA%` is a Windows-specific directory (typing `%APPDATA%` on Windows + R should take you to that folder), and `<mpv binary folder>` is the folder that contains the `mpv.exe` binary.
 
